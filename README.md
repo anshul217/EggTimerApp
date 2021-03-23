@@ -11,5 +11,5 @@ A beautiful egg timer app to boil your eggs to perfection depending on how you p
 
 ## screen shot
 
-![End Banner](Documentation/IMG_6395.png)
+![End Banner](Documentation/IMG_6395.PNG)
 
